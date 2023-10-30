@@ -1,0 +1,26 @@
+
+
+.expense-planner {
+    text-align: center;
+  }
+  
+  .expense-form {
+    margin: 20px;
+  }
+  
+  .expense-form input {
+    margin-right: 10px;
+  }
+  
+  .expense-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .expense {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+  }
